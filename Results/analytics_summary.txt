@@ -1,0 +1,22 @@
+E-COMMERCE ANALYTICS SUMMARY
+============================
+
+Total Interactions: 5227653
+Total Unique Products: 663079
+Total Sessions: 100000
+
+Total Clicks: 4770172
+Total Carts: 364579
+Total Orders: 92902
+
+Top 10 Popular Products:
+Product ID: 29735 | Interactions: 3716
+Product ID: 832192 | Interactions: 3299
+Product ID: 1733943 | Interactions: 3046
+Product ID: 108125 | Interactions: 2900
+Product ID: 1603001 | Interactions: 2863
+Product ID: 554660 | Interactions: 2655
+Product ID: 166037 | Interactions: 2614
+Product ID: 80222 | Interactions: 2407
+Product ID: 247240 | Interactions: 2207
+Product ID: 332654 | Interactions: 2180
